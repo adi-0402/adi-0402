@@ -12,4 +12,4 @@ I am excited about the opportunities in IT as they allow me to learn about data 
 ---
 
 ### Skills:
-   [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,github,figma&theme=light)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,github&theme=light)](https://skillicons.dev)
