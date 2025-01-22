@@ -9,13 +9,9 @@ Hello! I'm Adriana, a newcomer in IT. I developed a curiosity in this field and 
 
 I am excited about the opportunities in IT as they allow me to learn about data analysis, machine learning, and web development. This helps me grow in this dynamic field and apply my knowledge creatively.🥰
 
----
-
-### Portfolio:
 [Check my portfolio!](https://adi-0402.github.io/PS-portfolio/)
 
 ---
 
 ### Skills:
    [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,github&theme=light)](https://skillicons.dev)
----
