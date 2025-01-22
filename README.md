@@ -11,5 +11,11 @@ I am excited about the opportunities in IT as they allow me to learn about data 
 
 ---
 
+### Portfolio:
+[Check my portfolio!](https://adi-0402.github.io/PS-portfolio/)
+
+---
+
 ### Skills:
    [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,github&theme=light)](https://skillicons.dev)
+---
